@@ -10,10 +10,10 @@
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>&lt;#btnName#&gt;.rx.tap
-            .subscribe(onNext: { _ in
-                &lt;#code#&gt;
-            })
-            .disposed(by: rx.disposeBag)</string>
+    .subscribe(onNext: { _ in
+        &lt;#code#&gt;
+    })
+    .disposed(by: rx.disposeBag)</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>60CDC471-EA6A-4C6D-AD0D-AFC3BE0626B1</string>
 	<key>IDECodeSnippetLanguage</key>
